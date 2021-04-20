@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="Demo TestNG Login">
+        <classes>
+            <class name="com.practice.gradle.LoginTest">
+                <methods>
+                    <include name="homePage"/>
+                    <include name="myAccount"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

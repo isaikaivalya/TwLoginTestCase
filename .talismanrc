@@ -1,0 +1,25 @@
+fileignoreconfig:
+- filename: app/src/main/java/com/practice/gradle/pages/LoginPage.java
+  checksum: b6f4e0f1db047c0635389b85fd73cfc71c7a6b5f1bd42aa4d140b8fb3828ac32
+- filename: app/src/test/java/com/practice/gradle/seleniumdemo/VerifyOrder.java
+  checksum: 1d074af72f8543d6dd6a1cc58e2c68c6a012145d95129158d450b7032728a0a4
+- filename: app/test-output/emailable-report.html
+  checksum: ce3d4925227dc2d506a632bc41149c5423d022621f6c732d26c62b245ea0018a
+- filename: app/test-output/old/index.html
+  checksum: 430fbf76ec789c8328f4c714a3cf48fbbd5e65b0037772a05eb250fed7b442d6
+- filename: app/src/main/java/com/practice/gradle/pages/SignUpPage.java
+  checksum: 33da49c9366cd92be9ee506e350e7b0a64f3e3b6d424c52c06a4f550575ff934
+- filename: app/test-output/testng.css
+  checksum: 5b3c898ca17bea2f3b7e102d1ebec38691e39f20d2338438743f0c0d53145edc
+- filename: app/test-output/testng-results.xml
+  checksum: 6b80c20cf9069ca0f62f68fd3fde683405fabc39f1bd4ace501f7b1df6d1bb02
+- filename: app/test-output/All
+  checksum: 70e0991c8554899495131e4801ee95f3c9a2cfcf1c8561ec7ae1abefebd4d75f
+- filename: .idea/uiDesigner.xml
+  checksum: 18be3885953534e90388d323127b1e8a412d666d9fe4c4b2f315c589933b5f67
+- filename: app/test-output/index.html
+  checksum: 450282f166e8e94ba8b49b637eff25d7263967cf787b5c11350f8e1406db95c9
+- filename: app/test-output/jquery-3.4.1.min.js
+  checksum: f71f31b35a634287c47fd3fd83797a3a1d38fc44221b777e086d62494cf85a89
+
+
